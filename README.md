@@ -1,2 +1,0 @@
-# XavMiraGest
-for the updates

@@ -1,8 +1,0 @@
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\bin\Debug\Update.exe.config
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\bin\Debug\Update.exe
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\bin\Debug\Update.pdb
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\obj\Debug\Update.Form1.resources
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\obj\Debug\Update.Properties.Resources.resources
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\obj\Debug\Update.csproj.GenerateResource.Cache
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\obj\Debug\Update.exe
-C:\Users\rafae\OneDrive\Área de Trabalho\Backup\SYSGEST\Update\obj\Debug\Update.pdb
